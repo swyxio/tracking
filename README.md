@@ -12,3 +12,12 @@ Web frameworks
 GitHub
 
 - https://star-history.t9t.io
+
+
+Misc: 
+
+- https://devstats.cncf.io/
+   >  This is a toolset to visualize GitHub archives using Postgres databases and Grafana dashboards.
+    It allows creating various metrics for the Kubernetes community (and also for all other CNCF projects).
+    Everything is open source so that it can be used by other CNCF and non-CNCF open source projects.
+    The only requirement is that project must be hosted on a public GitHub repository/repositories.
