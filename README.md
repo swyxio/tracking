@@ -13,6 +13,10 @@ GitHub
 
 - https://star-history.t9t.io
 
+Surveys:
+
+- https://insights.stackoverflow.com/survey/2020#technology-programming-scripting-and-markup-languages-all-respondents
+
 
 Misc: 
 
