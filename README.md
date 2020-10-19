@@ -1,6 +1,6 @@
 # tracking
 
-projects to grab developer industry stats from
+I always need to grab developer industry stats. Here's a reference list to find them.
 
 ## Web mkt share
 
