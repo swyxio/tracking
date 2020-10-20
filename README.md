@@ -47,6 +47,7 @@ lang agnostic
 - jetbrains https://www.jetbrains.com/lp/devecosystem-2020/
 - https://www.tiobe.com/tiobe-index/
 - https://www.thoughtworks.com/radar
+- IEEE spectrum language popularity https://www.hpcwire.com/2020/07/22/python-again-tops-ieee-spectrums-programming-language-list/
 
 JS specific
 
