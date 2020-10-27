@@ -31,6 +31,10 @@ Daily stars
 - https://npmcharts.com/
 - https://npm-stat.com/
 
+## dockerhub downloads
+
+- https://github.com/docker/hub-feedback/issues/1047#issuecomment-346287737
+
 ## Misc categories
 
 ### Hiring
