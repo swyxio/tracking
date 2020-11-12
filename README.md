@@ -69,6 +69,8 @@ Misc specific
 
 i have no idea where to put these
 
+
+- https://slashdata.co/free-resources
 - https://devstats.cncf.io/
    >  This is a toolset to visualize GitHub archives using Postgres databases and Grafana dashboards.
     It allows creating various metrics for the Kubernetes community (and also for all other CNCF projects).
