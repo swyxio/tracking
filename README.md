@@ -12,6 +12,7 @@ Market share of tech
 Web frameworks mkt share
 
 - https://httparchive.org/ crawls 5m URLs every month, runs lighthouse, opensource/completely public
+   - they have an almanac https://almanac.httparchive.org/en/2020/
 
 ## GitHub stars
 
