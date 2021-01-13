@@ -58,6 +58,7 @@ lang agnostic
 JS specific
 
 - https://stateofjs.com
+  - important caveat on this https://davidea.st/articles/sampling-bias-fdr-state-of-js
 - https://www.swyx.io/react-survey-2019/
 - npm survey https://www.businesswire.com/news/home/20190423005225/en/npm-Inc.-Survey-What%E2%80%99s-New-in-JavaScript-2019
 - "state of frontend" https://tsh.io/state-of-frontend/
