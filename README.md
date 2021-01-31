@@ -55,6 +55,7 @@ lang agnostic
 - https://www.thoughtworks.com/radar
 - IEEE spectrum language popularity https://www.hpcwire.com/2020/07/22/python-again-tops-ieee-spectrums-programming-language-list/
 
+
 JS specific
 
 - https://stateofjs.com
@@ -71,7 +72,7 @@ Misc specific
 
 i have no idea where to put these
 
-
+- thoughtworks tech radar in JSON format https://www.thoughtworks.com/internal/api/radar/blips
 - https://slashdata.co/free-resources
 - https://devstats.cncf.io/
    >  This is a toolset to visualize GitHub archives using Postgres databases and Grafana dashboards.
