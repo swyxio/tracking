@@ -21,6 +21,10 @@ Star charts over time
 - https://star-history.t9t.io
 - https://seladb.github.io/StarTrack-js/#/
 
+growing startups by GH star growth rate
+
+- https://runacap.com/ross-index/
+
 Daily stars
 
 - mikeal daily tracker https://github.com/mikeal/daily
