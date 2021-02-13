@@ -71,6 +71,11 @@ JS specific
 Misc specific
 
 - https://blog.rust-lang.org/2020/04/17/Rust-survey-2019.html
+- Database engines https://db-engines.com/en/ranking_trend 
+
+
+![](https://postgresql.fund/img/dbengines_popularity_ranking-linear-900.png) 
+
 
 ### Misc Misc
 
