@@ -72,6 +72,9 @@ Misc specific
 
 - https://blog.rust-lang.org/2020/04/17/Rust-survey-2019.html
 - Database engines https://db-engines.com/en/ranking_trend 
+- http://redditlist.com
+- http://hnrankings.info/22776108
+- https://research.hackerrank.com/women-in-tech/2019
 
 
 ![](https://postgresql.fund/img/dbengines_popularity_ranking-linear-900.png) 
