@@ -87,6 +87,7 @@ i have no idea where to put these
 
 - thoughtworks tech radar in JSON format https://www.thoughtworks.com/internal/api/radar/blips
 - https://slashdata.co/free-resources
+- web framework benchmarks https://www.techempower.com/benchmarks/#section=data-r19&hw=ph&test=composite
 - https://devstats.cncf.io/
    >  This is a toolset to visualize GitHub archives using Postgres databases and Grafana dashboards.
     It allows creating various metrics for the Kubernetes community (and also for all other CNCF projects).
