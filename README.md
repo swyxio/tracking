@@ -2,6 +2,20 @@
 
 I always need to grab developer industry stats. Here's a reference list to find them.
 
+
+## How many developers are there in the world?
+
+- 10 million https://matt-rickard.com/2021-state-of-developers/
+- 18 million https://www.sequoiacap.com/article/rise-of-the-developer
+- 21 million https://en.wikipedia.org/wiki/Software_engineering_demographics
+- 27 million (EDC estimate) https://www.future-processing.com/blog/how-many-developers-are-there-in-the-world-in-2019/
+- 56 million (GitHub users) https://octoverse.github.com/ (projected to 100m)
+
+confusion: 
+
+- https://redmonk.com/jgovernor/2017/05/26/just-how-many-darned-developers-are-there-in-the-world-github-is-puzzled/
+- https://blog.npmjs.org/post/143451680695/how-many-npm-users-are-there
+
 ## Web mkt share
 
 Market share of tech
