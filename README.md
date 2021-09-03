@@ -50,6 +50,10 @@ Daily stars
 - https://npmcharts.com/
 - https://npm-stat.com/
 
+## php
+
+- https://packagist.org/packages/temporal/sdk/stats
+
 ## dockerhub downloads
 
 - https://github.com/docker/hub-feedback/issues/1047#issuecomment-346287737
