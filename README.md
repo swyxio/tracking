@@ -2,8 +2,23 @@
 
 I always need to grab developer industry stats. Here's a reference list to find them.
 
-<!-- START doctoc -->
-<!-- END doctoc -->
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**
+
+- [How many developers are there in the world?](#how-many-developers-are-there-in-the-world)
+- [Web mkt share](#web-mkt-share)
+- [GitHub stars](#github-stars)
+- [npm downloads](#npm-downloads)
+- [php](#php)
+- [dockerhub downloads](#dockerhub-downloads)
+- [Misc categories](#misc-categories)
+  - [Hiring](#hiring)
+  - [Industry Surveys](#industry-surveys)
+  - [Misc Misc](#misc-misc)
+- [Tracking for this repo itself](#tracking-for-this-repo-itself)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 
 ## How many developers are there in the world?
