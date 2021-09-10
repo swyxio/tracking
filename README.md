@@ -2,8 +2,6 @@
 
 I always need to grab developer industry stats. Here's a reference list to find them.
 
-[![Stargazers over time](https://starchart.cc/sw-yx/tracking.svg)](https://starchart.cc/sw-yx/tracking)
-
 
 ## How many developers are there in the world?
 
@@ -120,3 +118,8 @@ i have no idea where to put these
 - https://www.akitasoftware.com/blog-posts/why-arent-there-more-programming-languages-startups
    > By 2021, it’s generally agreed that there’s money in developer tools. Over the last few years, we watched Salesforce acquire Heroku for $212 million and Microsoft acquire GitHub for $7.5 billion. Today, the private company Postman is valued at $2 billion and HashiCorp is valued at $5.1 billion. Developer-first companies have also gone public and done well: the market cap of New Relic is over $4 billion; the market cap of Datadog is over $32 billion.
    > But the data doesn’t support this. According to the State of the Developer Nation in 2017 (via SlashData), 77% of developers now have a say in tool selection. And they’re choosing to spend that tool budget on products that make their work lives easier, rather than tools that make their code higher quality. For better or for worse, these two concerns are not the same.
+
+## Tracking for this repo itself
+
+
+[![Stargazers over time](https://starchart.cc/sw-yx/tracking.svg)](https://starchart.cc/sw-yx/tracking)
