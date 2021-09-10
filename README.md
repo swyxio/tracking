@@ -2,6 +2,8 @@
 
 I always need to grab developer industry stats. Here's a reference list to find them.
 
+[![Stargazers over time](https://starchart.cc/sw-yx/tracking.svg)](https://starchart.cc/sw-yx/tracking)
+
 
 ## How many developers are there in the world?
 
