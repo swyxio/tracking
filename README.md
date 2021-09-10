@@ -2,6 +2,9 @@
 
 I always need to grab developer industry stats. Here's a reference list to find them.
 
+<!-- START doctoc -->
+<!-- END doctoc -->
+
 
 ## How many developers are there in the world?
 
