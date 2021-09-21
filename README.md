@@ -40,6 +40,7 @@ Market share of tech
 
 - https://w3techs.com/technologies/details/ho-amazon 
 - wordpress mkt share https://w3techs.com/technologies/details/cm-wordpress
+- google analytics/tracking market share https://w3techs.com/technologies/overview/traffic_analysis
 
 Web frameworks mkt share
 
