@@ -90,6 +90,7 @@ lang agnostic
 - Stackoverflow survey
    - 2020 https://insights.stackoverflow.com/survey/2020#technology-programming-scripting-and-markup-languages-all-respondents
    - 2021 https://insights.stackoverflow.com/survey/2021
+     - slides from stackkoverflow https://www.youtube.com/watch?v=nZZnGnvTurQ
    - summary: https://matt-rickard.com/2021-state-of-developers
 - https://medium.com/@hoffa/the-top-weekend-languages-according-to-githubs-code-6022ea2e33e8
 - https://octoverse.github.com/
