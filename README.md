@@ -1,3 +1,5 @@
+> this list is now archived - look inside https://github.com/sw-yx/brain if you would like an updated list! thank you.
+
 # tracking
 
 I always need to grab developer industry stats. Here's a reference list to find them.
